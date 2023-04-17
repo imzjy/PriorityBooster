@@ -361,3 +361,5 @@ FakesAssemblies/
 
 # Visual Studio 6 technical ut
 **/*.HTMdArtifacts**/*.DesktopClient/Model
+
+.vs/*
